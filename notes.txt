@@ -1,0 +1,5 @@
+whenever we use database problems can come so use try catch or can use promises
+
+database is far 
+likehere we use in banglore but database is in mumbai so it takes time 
+so use async    
